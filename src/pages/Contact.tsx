@@ -80,7 +80,7 @@ const Contact = () => {
                 </div>
                 <div>
                     <h3 className='text-lg font-semibold'>Email</h3>
-                    <a href='mailto:info@inaaracapital.co.za' className='text-gray-600 hover:text-blue-600'>info@inaaracapital.co.za</a>
+                    <a href='mailto:gazza@xylemfintech.co.za' className='text-gray-600 hover:text-blue-600'>gazza@xylemfintech.co.za</a>
                 </div>
            </div>
            <div className='flex items-start space-x-4'>
@@ -98,7 +98,7 @@ const Contact = () => {
                 </div>
                 <div>
                     <h3 className='text-lg font-semibold'>Office</h3>
-                    <p className='text-gray-600'>123 Main Street, Sandton, Johannesburg, 2196, South Africa</p>
+                    <p className='text-gray-600'>Noordhoek, Cape Town, 7979, South Africa</p>
                 </div>
            </div>
         </div>
