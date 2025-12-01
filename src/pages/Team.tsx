@@ -1,15 +1,15 @@
 const teamMembers = [
   {
-    name: 'Jabulani Nkosi',
+    name: 'Gary William Reilly',
     role: 'Chief Executive Officer',
     imageUrl: 'https://storage.googleapis.com/dala-prod-public-storage/generated-images/976fda57-8ad8-40af-a3b5-35ef75699649/team-placeholder-male-1-vnmylhx-1764601068019.webp',
-    bio: 'A seasoned financial expert with over 20 years of experience in investment banking and asset management, Jabulani is passionate about leveraging technology to create inclusive financial products.'
+    bio: 'A seasoned business expert with over 30 years of experience in fintech, hospitality, and energy sectors, Gary is passionate about leveraging technology to create inclusive financial products.'
   },
   {
-    name: 'Lerato Mokoena',
+    name: 'Matt Cech',
     role: 'Chief Technology Officer',
     imageUrl: 'https://storage.googleapis.com/dala-prod-public-storage/generated-images/976fda57-8ad8-40af-a3b5-35ef75699649/team-placeholder-female-1-zbknsgd-1764601074599.webp',
-    bio: 'Lerato is a blockchain visionary and software architect who has led development teams at several successful tech startups. She is the driving force behind our secure and scalable platform.'
+    bio: 'Matt is a blockchain visionary and software architect who has led development teams at several successful tech startups. He is the driving force behind our secure and scalable platform.'
   },
   {
     name: 'Chris van der Merwe',
@@ -25,7 +25,7 @@ const Team = () => {
       <div className='text-center mb-16'>
         <h1 className='text-4xl font-bold tracking-tight'>Our Leadership Team</h1>
         <p className='mt-4 text-lg text-gray-600 max-w-3xl mx-auto'>
-          Meet the experienced professionals guiding Inaara Capital to the forefront of digital asset innovation.
+          Meet the experienced professionals guiding Xylem Fintech to the forefront of digital asset innovation.
         </p>
       </div>
 
