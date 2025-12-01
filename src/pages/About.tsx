@@ -1,10 +1,10 @@
 import { Briefcase, Milestone, Target } from 'lucide-react';
 
 const timelineData = [
-  { year: '2023', event: 'Company Inception', description: 'Inaara Capital was founded with the mission to democratise real estate investment in Africa.' },
-  { year: '2024', event: 'FSCA License Acquired', description: 'Became one of South Africa’s first fully licensed digital exchanges for real-world assets.' },
-  { year: 'Q1 2025', event: 'Platform Launch', description: 'Successfully launched our tokenisation platform and onboarded the first set of properties.' },
-  { year: 'Q3 2025', event: 'First R20M Tokenised', description: 'Reached a major milestone with over R20 million in real estate assets tokenised on the platform.' },
+  { year: '2024', event: 'Company Inception', description: 'Xylem Fintech was founded with the mission to democratise real estate investment in Africa.' },
+  { year: '2026', event: 'FSCA License Acquired', description: 'Became one of South Africa’s first fully licensed digital exchanges for real-world assets.' },
+  { year: 'Q2 2026', event: 'Platform Launch', description: 'Successfully launched our tokenisation platform and onboarded the first set of properties.' },
+  { year: 'Q1 2027', event: 'First R20M Tokenised', description: 'Reached a major milestone with over R20 million in real estate assets tokenised on the platform.' },
 ];
 
 const About = () => {
@@ -13,7 +13,7 @@ const About = () => {
       <div className='text-center mb-16'>
         <h1 className='text-4xl font-bold tracking-tight'>About Inaara Capital</h1>
         <p className='mt-4 text-lg text-gray-600 max-w-3xl mx-auto'>
-          We are a team of finance and technology experts passionate about building the future of investment in Africa.
+          We are a team of business, finance and technology experts passionate about building the future of investment in Africa.
         </p>
       </div>
 
@@ -21,7 +21,7 @@ const About = () => {
         <div>
           <h2 className='text-3xl font-bold mb-4 flex items-center'><Target className='mr-3 h-8 w-8 text-blue-600' /> Our Mission</h2>
           <p className='text-gray-700 text-lg mb-4'>
-            To make premium real estate and other alternative investments accessible to everyone, enhancing liquidity and creating wealth for all participants in the ecosystem.
+            To make premium real estate and other alternative 'real world asset' investments accessible to everyone, enhancing liquidity and creating wealth for all participants in the ecosystem.
           </p>
           <h2 className='text-3xl font-bold mb-4 flex items-center'><Briefcase className='mr-3 h-8 w-8 text-blue-600' /> Our Vision</h2>
           <p className='text-gray-700 text-lg'>
