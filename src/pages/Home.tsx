@@ -12,7 +12,7 @@ const Home = () => {
         <div className='relative z-10 text-center px-4 max-w-3xl'>
           <h1 className='text-4xl md:text-6xl font-bold tracking-tight'>Unlock Real Estate. Unleash Liquidity.</h1>
           <p className='mt-4 text-lg md:text-xl text-gray-200'>
-            Xylem Fintech (Pty) Ltd. is South Africa's first licensed digital exchange for tokenised real-world assets, making premium property investment accessible to all from just R2,000.
+            Inaara Capital is South Africa's first licensed digital exchange for tokenised real-world assets, making premium property investment accessible to all from just R2,000.
           </p>
           <div className='mt-8 flex justify-center gap-4'>
             <Button asChild size='lg' className='bg-blue-600 hover:bg-blue-700'>
@@ -55,7 +55,7 @@ const Home = () => {
             <h2 className='text-3xl font-bold mb-8'>Client Testimonials</h2>
             <div className='grid md:grid-cols-2 gap-8 max-w-4xl mx-auto'>
                 <div className='bg-white p-6 rounded-lg shadow-md'>
-                    <p className='text-gray-600 mb-4'>'Xylem Fintech has completely changed my perspective on property investment. The process was seamless and I now own a piece of a prime Cape Town property!'</p>
+                    <p className='text-gray-600 mb-4'>'Inaara Capital has completely changed my perspective on property investment. The process was seamless and I now own a piece of a prime Cape Town property!'</p>
                     <p className='font-semibold'>- Thabo M.</p>
                 </div>
                 <div className='bg-white p-6 rounded-lg shadow-md'>
