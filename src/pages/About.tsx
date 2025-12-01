@@ -11,7 +11,7 @@ const About = () => {
   return (
     <div className='container mx-auto py-20 px-4'>
       <div className='text-center mb-16'>
-        <h1 className='text-4xl font-bold tracking-tight'>About Inaara Capital</h1>
+        <h1 className='text-4xl font-bold tracking-tight'>About Xylem Fintech</h1>
         <p className='mt-4 text-lg text-gray-600 max-w-3xl mx-auto'>
           We are a team of business, finance and technology experts passionate about building the future of investment in Africa.
         </p>
