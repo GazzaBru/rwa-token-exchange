@@ -18,7 +18,7 @@ const Home = () => {
             <Button asChild size='lg' className='bg-blue-600 hover:bg-blue-700'>
               <Link to='/services'>Explore Services</Link>
             </Button>
-            <Button asChild size='lg' variant='outline' className='text-white border-white hover:bg-white/10'>
+            <Button asChild size='lg' className='bg-blue-600 hover:bg-blue-700'>
               <Link to='/about'>Learn More</Link>
             </Button>
           </div>
