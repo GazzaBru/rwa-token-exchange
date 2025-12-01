@@ -1,10 +1,10 @@
 import { Briefcase, Milestone, Target } from 'lucide-react';
 
 const timelineData = [
-  { year: '2023', event: 'Company Inception', description: 'Inaara Capital was founded with the mission to democratise real estate investment in Africa.' },
-  { year: '2024', event: 'FSCA License Acquired', description: 'Became one of South Africa’s first fully licensed digital exchanges for real-world assets.' },
-  { year: 'Q1 2025', event: 'Platform Launch', description: 'Successfully launched our tokenisation platform and onboarded the first set of properties.' },
-  { year: 'Q3 2025', event: 'First R20M Tokenised', description: 'Reached a major milestone with over R20 million in real estate assets tokenised on the platform.' },
+  { year: '2025', event: 'Company Inception', description: 'Xylem Fintech was founded with the mission to democratise real estate investment in Africa.' },
+  { year: '2026', event: 'FSCA License Acquired', description: 'Became one of South Africa’s first fully licensed digital exchanges for real-world assets.' },
+  { year: 'Q1 2026', event: 'Platform Launch', description: 'Successfully launched our tokenisation platform and onboarded the first set of properties.' },
+  { year: 'Q3 2027', event: 'First R20M Tokenised', description: 'Reached a major milestone with over R20 million in real estate assets tokenised on the platform.' },
 ];
 
 const About = () => {
@@ -13,7 +13,7 @@ const About = () => {
       <div className='text-center mb-16'>
         <h1 className='text-4xl font-bold tracking-tight'>About Inaara Capital</h1>
         <p className='mt-4 text-lg text-gray-600 max-w-3xl mx-auto'>
-          We are a team of finance and technology experts passionate about building the future of investment in Africa.
+          We are a team of business, finance and technology experts passionate about building the future of investment in Africa.
         </p>
       </div>
 
