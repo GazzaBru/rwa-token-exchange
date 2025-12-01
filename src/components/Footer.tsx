@@ -27,12 +27,12 @@ const Footer = () => {
           </div>
           <div>
             <h4 className='font-semibold mb-4'>Connect</h4>
-            <p className='text-gray-400'>123 Main Street, Cape Town, 8001</p>
-            <p className='text-gray-400'>info@inaaracapital.co.za</p>
+            <p className='text-gray-400'>Noordhoek, Cape Town, 7979</p>
+            <p className='text-gray-400'>gazza@xylemfintech.co.za</p>
           </div>
         </div>
         <div className='border-t border-gray-800 mt-8 pt-6 text-center text-gray-500'>
-          <p>&copy; {new Date().getFullYear()} Inaara Capital. All Rights Reserved. Licensed by FSCA.</p>
+          <p>&copy; {new Date().getFullYear()} Xylem Fintech (Pty) Ltd. All Rights Reserved. "Licensed" by FSCA.</p>
         </div>
       </div>
     </footer>
